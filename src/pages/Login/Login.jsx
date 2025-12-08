@@ -2,8 +2,8 @@ import react from 'react';
 import './Login.css'
 const Login = () => {
     return (
-        <div>
-            We are in login page
+        <div className='login'>
+            <img src="../../assets/logo.png" alt="" className="logo" />
         </div>
     )
 }
